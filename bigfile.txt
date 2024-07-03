@@ -1,0 +1,119 @@
+Module 1: Introduction to Fullstack Development
+Learning Objectives
+• Understand what fullstack development is
+• Overview of the technologies: Node.js, Angular, MongoDB, InfluxDB
+Content
+1. What is Fullstack Development?
+o Definition and importance
+o Role of a fullstack developer
+2. Technologies Overview
+o Node.js: JavaScript runtime built on Chrome's V8 engine
+o Angular: Framework for building client applications in HTML and 
+TypeScript
+o MongoDB: NoSQL database for storing JSON-like documents
+o InfluxDB: Time-series database designed for fast, high-availability storage 
+and retrieval of time series data
+Module 2: Setting Up the Development Environment
+Learning Objectives
+• Install and configure Node.js, Angular, MongoDB, and InfluxDB
+Content
+1. Node.js and npm
+o Install Node.js and npm
+o Verify installation
+o Basic npm commands
+2. Angular
+o Install Angular CLI
+o Create a new Angular project
+o Running the Angular development server
+3. MongoDB
+o Install MongoDB
+o Start MongoDB server
+o Basic MongoDB commands
+4. InfluxDB
+o Install InfluxDB
+o Start InfluxDB server
+o Basic InfluxDB commands
+Module 3: Backend Development with Node.js
+Learning Objectives
+• Create a basic server using Node.js
+• Understand Express.js for building web applications
+Content
+1. Creating a Basic Server
+o Setting up a Node.js project
+o Creating a simple HTTP server
+2. Using Express.js
+o Setting up Express.js
+o Creating RESTful APIs
+o Middleware and routing
+3. Connecting to MongoDB
+o Using Mongoose for MongoDB interactions
+o CRUD operations
+4. Connecting to InfluxDB
+o Using InfluxDB client for Node.js
+o Writing and querying data
+Module 4: Frontend Development with Angular
+Learning Objectives
+• Create a basic Angular application
+• Understand components, services, and routing in Angular
+Content
+1. Creating a Basic Angular Application
+o Angular project structure
+o Components and templates
+2. Data Binding and Directives
+o Property binding, event binding
+o Structural directives (ngIf, ngFor)
+3. Services and Dependency Injection
+o Creating and using services
+o Dependency injection in Angular
+4. Routing
+o Setting up routing
+o Navigating between views
+5. HTTP Client
+o Making HTTP requests
+o Communicating with the backend API
+Module 5: Integrating Frontend and Backend
+Learning Objectives
+• Connect Angular frontend with Node.js backend
+• Handle data and display it in the frontend
+Content
+1. Setting up CORS
+o Configuring CORS in Express.js
+2. Making HTTP Calls from Angular
+o Using Angular HTTP Client to fetch data
+o Displaying data in Angular components
+3. Form Handling
+o Creating and handling forms in Angular
+o Submitting data to the backend
+Module 6: Database Operations
+Learning Objectives
+• Perform CRUD operations in MongoDB and InfluxDB
+• Use databases effectively with Node.js
+Content
+1. MongoDB CRUD Operations
+o Create, Read, Update, Delete operations using Mongoose
+2. InfluxDB CRUD Operations
+o Writing data points
+o Querying data
+3. Database Indexing and Optimization
+o Indexing in MongoDB
+o Best practices for querying time-series data in InfluxDB
+Module 7: Advanced Topics
+Learning Objectives
+• Learn advanced features and best practices for fullstack development
+Content
+1. Authentication and Authorization
+o Implementing JWT authentication in Node.js
+o Role-based access control
+2. Error Handling
+o Error handling in Express.js
+o Handling errors in Angular
+3. Performance Optimization
+o Caching strategies
+o Optimizing database queries
+4. Deployment
+o Deploying Node.js application to a cloud service (e.g., Heroku)
+o Deploying Angular application
+o Database hosting and management
+Module 8: Project Work
+Learning Objectives
+• Apply learned concepts to build a real-world applicatio
